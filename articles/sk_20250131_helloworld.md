@@ -32,6 +32,12 @@ Semantic Kernelを活用すると、単一のAIモデルでは実現が難しい
 Semantic Kernelを使ってAzure OpenAI Serviceの言語モデルに「Hello World」のプロンプトを渡し、それに対する応答を取得して出力します。
 この基本的なプロセスを理解することで、Semantic Kernelの使い方のイメージを掴むことができます。
 
+## Notebook参考
+
+GitHubにはコードのデモを用意しています。結果を確認する場合は、ぜひGitHubのNotebookをご参照ください。
+
+https://github.com/motojinc25/blog-notebook/blob/main/notebooks/semantic-kernel/01_helloworld.ipynb
+
 ## 環境を準備しよう
 
 まず、Semantic Kernelと必要なパッケージをインストールしてバージョンを確認ます。
