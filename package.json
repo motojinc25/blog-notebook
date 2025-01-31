@@ -1,0 +1,15 @@
+{
+  "name": "blog-notebook",
+  "version": "1.0.0",
+  "description": "My AI Blogging Notebook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jingun Jung",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "zenn-cli": "^0.1.158"
+  }
+}
